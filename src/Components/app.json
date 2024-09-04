@@ -1,0 +1,245 @@
+[
+  {
+    "name": "PUBG Mobile",
+    "url": "https://www.pubgmobile.com",
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/4/44/PlayerUnknown%27s_Battlegrounds_Mobile.webp/180px-PlayerUnknown%27s_Battlegrounds_Mobile.webp.png",
+    "category": "games"
+  },
+  {
+    "name": "Fortnite",
+    "url": "https://www.epicgames.com/fortnite",
+    "image": "https://image.api.playstation.com/vulcan/ap/rnd/202311/2801/009384c2725d335d3711b0d3c84672142fc93f72077e679e.jpg",
+    "category": "games"
+  },
+  {
+    "name": "Call of Duty Mobile",
+    "url": "https://www.callofduty.com/mobile",
+    "image": "https://play-lh.googleusercontent.com/aqwlSq1dxP7yckP1a8buVBPmrn9oL7ySubITsoOxrTbAUhv6fQyrNZCXYSDYenf5Kcs=w240-h480-rw",
+    "category": "games"
+  },
+  {
+    "name": "Clash of Clans",
+    "url": "https://supercell.com/en/games/clashofclans",
+    "image": "https://pbs.twimg.com/profile_images/1719631006708195328/Kfb8D4PX_400x400.jpg",
+    "category": "games"
+  },
+  {
+    "name": "Among Us",
+    "url": "https://www.innersloth.com/gameAmongUs.php",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQu-rw1YhVOlh0JbJrYEGdlVLYS-nUhNcxjhg&s",
+    "category": "games"
+  },
+  {
+    "name": "Candy Crush Saga",
+    "url": "https://www.king.com/game/candycrush",
+    "image": "https://store-images.s-microsoft.com/image/apps.7458.13510798882606697.b6a31126-a832-4c65-8788-783028e60938.f9619292-7e34-4b90-b30f-98c1ff47cd7f",
+    "category": "games"
+  },
+  {
+    "name": "Minecraft",
+    "url": "https://www.minecraft.net",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfVR6h3CtRjFR1EDw9-1pxtIU3hZnHc7bRgQ&s",
+    "category": "games"
+  },
+  {
+    "name": "Genshin Impact",
+    "url": "https://genshin.mihoyo.com",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBRjARMouLnqPONcKjXiZYv9BD3el4FW5PCQ&s",
+    "category": "games"
+  },
+  {
+    "name": "Pokemon GO",
+    "url": "https://www.pokemongo.com",
+    "image": "https://i.ytimg.com/vi/2sj2iQyBTQs/sddefault.jpg",
+    "category": "games"
+  },
+  {
+    "name": "Roblox",
+    "url": "https://www.roblox.com",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7zrpqh4wqz0lgcfu1b1pCjenBdQCG8yDrrA&s",
+    "category": "games"
+  },
+
+  {
+    "name": "Uber Eats",
+    "url": "https://www.ubereats.com",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bd/6f/78/bd6f7802-96e2-a6b5-93f8-7f83852437b1/AppIcon-0-0-1x_U007emarketing-0-7-0-0-sRGB-85-220.png/1200x630wa.png",
+    "category": "Food Delivery"
+  },
+  {
+    "name": "Grubhub",
+    "url": "https://www.grubhub.com",
+    "image": "https://play-lh.googleusercontent.com/2aSEyMxSUQVknFM5lkmbxv0LhJZvSkwotA-jtlqJSjplXl4_BszCW9_FzzqPBpEeoPE",
+    "category": "Food Delivery"
+  },
+  {
+    "name": "DoorDash",
+    "url": "https://www.doordash.com",
+    "image": "https://images.ctfassets.net/trvmqu12jq2l/6ft2sSglhCI6JGv1t5tUMJ/8e57a2e20f6132edfeeb8fb31346cabd/doordash_placeholder.jpg?q=70&w=1208&h=1080&f=faces&fit=fill",
+    "category": "Food Delivery"
+  },
+  {
+    "name": "Postmates",
+    "url": "https://www.postmates.com",
+    "image": "https://play-lh.googleusercontent.com/luJACHFO7ubeUXmPJwr8ZMahKCDSTsIHN43OiXiMpAQbqWRysroKTeiaGvst_Ev9N1w",
+    "category": "Food Delivery"
+  },
+  {
+    "name": "Zomato",
+    "url": "https://www.zomato.com",
+    "image": "https://pbs.twimg.com/profile_images/1676632284215271425/zXmKVN-f_400x400.jpg",
+    "category": "Food Delivery"
+  },
+  {
+    "name": "Swiggy",
+    "url": "https://www.swiggy.com",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRozYHsJGddwG_GI8P1hLPZ1Lfs_cbbnuVRIg&s",
+    "category": "Food Delivery"
+  },
+  {
+    "name": "Instacart",
+    "url": "https://www.instacart.com",
+    "image": "https://www.instacart.com/company/wp-content/uploads/2022/03/03-Instacart-Logo-Kale-1.jpg",
+    "category": "Food Delivery"
+  },
+  {
+    "name": "Seamless",
+    "url": "https://www.seamless.com",
+    "image": "https://play-lh.googleusercontent.com/Rk9UNhcS9VmGs3Q_7yyT1fGCu2rLZBzmomHB_c6Pj_u2P4iMdkmih2BlTZU3juHshg",
+    "category": "Food Delivery"
+  },
+  {
+    "name": "Deliveroo",
+    "url": "https://www.deliveroo.com",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbMgSz-CCdVwJW0NX2ckZ5ikzMBCOYeDcfdw&s",
+    "category": "Food Delivery"
+  },
+  {
+    "name": "Foodpanda",
+    "url": "https://www.foodpanda.com",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDsO0ONowkJQVuCT51Ai4pqvb6ikdYvuFS7g&s",
+    "category": "Food Delivery"
+  },
+
+  {
+    "name": "BBC News",
+    "url": "https://www.bbc.com/news",
+    "image": "https://yt3.googleusercontent.com/y_esGAQOhX4rTpWvrALErAJlFbm_2TIVrvcVfcZny7TuA8dJZgOQcC6KRfd_J5hljFe-foYXj9U=s900-c-k-c0x00ffffff-no-rj",
+    "category": "News"
+  },
+  {
+    "name": "CNN",
+    "url": "https://www.cnn.com",
+    "image": "https://yt3.googleusercontent.com/n5DRh94eycw6xGcOKTn6LKQwztTwaw24fXPniFTXA3VPgwJaiOFdBwJNtXRHYUf7OdEAk9upwH0=s900-c-k-c0x00ffffff-no-rj",
+    "category": "News"
+  },
+  {
+    "name": "Reuters",
+    "url": "https://www.reuters.com",
+    "image": "https://yt3.googleusercontent.com/ytc/AIdro_mk43b9eQwN15ZBDyMPDaElxvw4V-oUS9XDUvVnYB3gA9yA=s900-c-k-c0x00ffffff-no-rj",
+    "category": "News"
+  },
+  {
+    "name": "Al Jazeera",
+    "url": "https://www.aljazeera.com",
+    "image": "https://yt3.googleusercontent.com/3fbjZ6CAJl7Y7ii8qo0C4VEd_zcsC3-zrB0Nw5MW--VZmga15wtwwTBmePBRAPl3vCSFRoQq1Q=s900-c-k-c0x00ffffff-no-rj",
+    "category": "News"
+  },
+  {
+    "name": "The New York Times",
+    "url": "https://www.nytimes.com",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQk2hToJWNxvzzibxHbL8THkq-BN6S8FKQJ_w&s",
+    "category": "News"
+  },
+  {
+    "name": "The Guardian",
+    "url": "https://www.theguardian.com",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYN82mIxa9XTOiZNkogXf5Hg-jozhlWdJSQg&s",
+    "category": "News"
+  },
+  {
+    "name": "Fox News",
+    "url": "https://www.foxnews.com",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRfmPwguflE6v9iOYrawP_9vSJL3UuI4vpng&s",
+    "category": "News"
+  },
+  {
+    "name": "NPR News",
+    "url": "https://www.npr.org",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbTN8CbT-H13WbmTEpjk6hLOTDP9zwOnkbSw&s",
+    "category": "News"
+  },
+  {
+    "name": "Bloomberg",
+    "url": "https://www.bloomberg.com",
+    "image": "https://m.media-amazon.com/images/I/31Ja06sm51L.png",
+    "category": "News"
+  },
+  {
+    "name": "ABC News",
+    "url": "https://abcnews.go.com",
+    "image": "https://yt3.googleusercontent.com/OOT0eq8LoW8V3PMURGYuk0kRSgRGP7EsuGZoODhHBcg1jCB1qkuIAxS-XGnjKX9Q6rf-WKTvkQ=s900-c-k-c0x00ffffff-no-rj",
+    "category": "News"
+  },
+
+  {
+    "name": "Facebook",
+    "url": "https://www.facebook.com",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiXN9xSEe8unzPBEQOeAKXd9Q55efGHGB9BA&s",
+    "category": "Socialmedia"
+  },
+  {
+    "name": "Twitter",
+    "url": "https://www.twitter.com",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI-h-e2hgz8mwGfCt4gvj4IgMG_wAUolVM6w&s",
+    "category": "Socialmedia"
+  },
+  {
+    "name": "Instagram",
+    "url": "https://www.instagram.com",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/9/95/Instagram_logo_2022.svg",
+    "category": "Socialmedia"
+  },
+  {
+    "name": "LinkedIn",
+    "url": "https://www.linkedin.com",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRokEYt0yyh6uNDKL8uksVLlhZ35laKNQgZ9g&s",
+    "category": "Socialmedia"
+  },
+  {
+    "name": "Pinterest",
+    "url": "https://www.pinterest.com",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRS-meG8HDT-iFgfeMdVxdjT_zYLvMVrd8Nw&s",
+    "category": "Socialmedia"
+  },
+  {
+    "name": "Snapchat",
+    "url": "https://www.snapchat.com",
+    "image": "https://cdn2.downdetector.com/static/uploads/logo/image11.png",
+    "category": "Socialmedia"
+  },
+  {
+    "name": "TikTok",
+    "url": "https://www.tiktok.com",
+    "image": "https://p16-va-tiktok.ibyteimg.com/obj/musically-maliva-obj/0abd45ea31ff694a1390023771390aae.png",
+    "category": "Socialmedia"
+  },
+  {
+    "name": "Reddit",
+    "url": "https://www.reddit.com",
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bd/Reddit_Logo_Icon.svg/220px-Reddit_Logo_Icon.svg.png",
+    "category": "Socialmedia"
+  },
+  {
+    "name": "YouTube",
+    "url": "https://www.youtube.com",
+    "image": "https://yt3.googleusercontent.com/584JjRp5QMuKbyduM_2k5RlXFqHJtQ0qLIPZpwbUjMJmgzZngHcam5JMuZQxyzGMV5ljwJRl0Q=s900-c-k-c0x00ffffff-no-rj",
+    "category": "Socialmedia"
+  },
+  {
+    "name": "WhatsApp",
+    "url": "https://www.whatsapp.com",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZPMlOjaNFP9OaQerd5wTLO7S8PSVF8V9gEA&s",
+    "category": "Socialmedia"
+  }
+]
