@@ -10,7 +10,7 @@ useEffect(()=>{
     let flag = true
     async function fetchData(){
       try{
-          let url = `http://localhost:5000/apps`
+          let url = `https://appstore-backend.vercel.app/apps`
           if(category && category !== "All+Apps"){
             url += `?category=${category}`;
           }
